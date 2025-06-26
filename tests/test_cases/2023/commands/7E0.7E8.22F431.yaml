@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    PORSCHE_CLR_DIST: 653
+  response: 7E80562F431028D
+- expected_values:
+    PORSCHE_CLR_DIST: 654
+  response: 7E80562F431028E
+- expected_values:
+    PORSCHE_CLR_DIST: 655
+  response: 7E80562F431028F
+- expected_values:
+    PORSCHE_CLR_DIST: 656
+  response: 7E80562F4310290
+- expected_values:
+    PORSCHE_CLR_DIST: 657
+  response: 7E80562F4310291
+- expected_values:
+    PORSCHE_CLR_DIST: 658
+  response: 7E80562F4310292
+- expected_values:
+    PORSCHE_CLR_DIST: 659
+  response: 7E80562F4310293
+- expected_values:
+    PORSCHE_CLR_DIST: 660
+  response: 7E80562F4310294
+- expected_values:
+    PORSCHE_CLR_DIST: 661
+  response: 7E80562F4310295
+- expected_values:
+    PORSCHE_CLR_DIST: 689
+  response: 7E80562F43102B1

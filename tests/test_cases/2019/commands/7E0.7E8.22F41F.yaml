@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
-- response: 7E80562F41F0011
-  expected_values:
+- expected_values:
     PORSCHE_RUNTM: 17
-- response: 7E80562F41F0103
-  expected_values:
+  response: 7E80562F41F0011
+- expected_values:
     PORSCHE_RUNTM: 259
-- response: 7E80562F41F0CFC
-  expected_values:
+  response: 7E80562F41F0103
+- expected_values:
     PORSCHE_RUNTM: 3324
-- response: 7E80562F41F0D26
-  expected_values:
+  response: 7E80562F41F0CFC
+- expected_values:
     PORSCHE_RUNTM: 3366
+  response: 7E80562F41F0D26

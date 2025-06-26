@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    PORSCHE_EOT: 6
+  response: 7E8056211BE0006
+- expected_values:
+    PORSCHE_EOT: 8
+  response: 7E8056211BE0008
+- expected_values:
+    PORSCHE_EOT: 9
+  response: 7E8056211BE0009
+- expected_values:
+    PORSCHE_EOT: 10
+  response: 7E8056211BE000A
+- expected_values:
+    PORSCHE_EOT: 12
+  response: 7E8056211BE000C
