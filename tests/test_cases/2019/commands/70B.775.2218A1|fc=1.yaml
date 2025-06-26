@@ -1,51 +1,51 @@
 command_id: 70B.775.2218A1|fc=1
 test_cases:
-- response: |-
-    775100D6218A1228AC6
-    775217C02FF1735175B
-  expected_values:
+- expected_values:
     PORSCHE_TID_2: 100
     PORSCHE_TPOS_2: RL
     PORSCHE_TPS_2: 2.3
     PORSCHE_TPW_2: 9.1
     PORSCHE_TP_2: 2.3
     PORSCHE_TT_2: 13
-- response: |-
+  response: |-
     775100D6218A1228AC6
-    775217C02FF183F175B
-  expected_values:
+    775217C02FF1735175B
+- expected_values:
     PORSCHE_TID_2: 100
     PORSCHE_TPOS_2: RL
     PORSCHE_TPS_2: 2.3
     PORSCHE_TPW_2: 9.1
     PORSCHE_TP_2: 2.4
     PORSCHE_TT_2: 23
-- response: |-
+  response: |-
     775100D6218A1228AC6
-    775217C02FF1840175B
-  expected_values:
+    775217C02FF183F175B
+- expected_values:
     PORSCHE_TID_2: 100
     PORSCHE_TPOS_2: RL
     PORSCHE_TPS_2: 2.3
     PORSCHE_TPW_2: 9.1
     PORSCHE_TP_2: 2.4
     PORSCHE_TT_2: 24
-- response: |-
+  response: |-
     775100D6218A1228AC6
-    775217C02FF1840177F
-  expected_values:
+    775217C02FF1840175B
+- expected_values:
     PORSCHE_TID_2: 100
     PORSCHE_TPOS_2: RL
     PORSCHE_TPS_2: 2.3
     PORSCHE_TPW_2: 12.7
     PORSCHE_TP_2: 2.4
     PORSCHE_TT_2: 24
-- response: |-
+  response: |-
     775100D6218A1228AC6
-    775217C02FFFFFF177F
-  expected_values:
+    775217C02FF1840177F
+- expected_values:
     PORSCHE_TID_2: 100
     PORSCHE_TPOS_2: RL
     PORSCHE_TPS_2: 2.3
     PORSCHE_TPW_2: 12.7
     PORSCHE_TT_2: 100
+  response: |-
+    775100D6218A1228AC6
+    775217C02FFFFFF177F

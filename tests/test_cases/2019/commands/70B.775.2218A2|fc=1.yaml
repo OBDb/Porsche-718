@@ -1,91 +1,91 @@
 command_id: 70B.775.2218A2|fc=1
 test_cases:
-- response: |-
-    775100D6218A22290C3
-    775211E01FF1735175B
-  expected_values:
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.3
     PORSCHE_TT_3: 13
-- response: |-
+  response: |-
     775100D6218A22290C3
-    775211E01FF1736175B
-  expected_values:
+    775211E01FF1735175B
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.3
     PORSCHE_TT_3: 14
-- response: |-
+  response: |-
     775100D6218A22290C3
-    775211E01FF1739175B
-  expected_values:
+    775211E01FF1736175B
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.3
     PORSCHE_TT_3: 17
-- response: |-
+  response: |-
+    775100D6218A22290C3
+    775211E01FF1739175B
+- expected_values:
+    PORSCHE_TID_3: 100
+    PORSCHE_TPOS_3: FR
+    PORSCHE_TPS_3: 2.3
+    PORSCHE_TPW_3: 9.1
+    PORSCHE_TP_3: 2.3
+    PORSCHE_TT_3: 18
+  response: |-
     775100D6218A22290C3
     775211E01FF173A175B
-  expected_values:
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.3
-    PORSCHE_TT_3: 18
-- response: |-
+    PORSCHE_TT_3: 20
+  response: |-
     775100D6218A22290C3
     775211E01FF173C175B
-  expected_values:
-    PORSCHE_TID_3: 100
-    PORSCHE_TPOS_3: FR
-    PORSCHE_TPS_3: 2.3
-    PORSCHE_TPW_3: 9.1
-    PORSCHE_TP_3: 2.3
-    PORSCHE_TT_3: 20
-- response: |-
-    775100D6218A22290C3
-    775211E01FF183A175B
-  expected_values:
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.4
     PORSCHE_TT_3: 18
-- response: |-
+  response: |-
     775100D6218A22290C3
-    775211E01FF183C175B
-  expected_values:
+    775211E01FF183A175B
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.4
     PORSCHE_TT_3: 20
-- response: |-
+  response: |-
     775100D6218A22290C3
-    775211E01FF1948175B
-  expected_values:
+    775211E01FF183C175B
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 9.1
     PORSCHE_TP_3: 2.5
     PORSCHE_TT_3: 32
-- response: |-
+  response: |-
     775100D6218A22290C3
-    775211E01FFFFFF177F
-  expected_values:
+    775211E01FF1948175B
+- expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPOS_3: FR
     PORSCHE_TPS_3: 2.3
     PORSCHE_TPW_3: 12.7
     PORSCHE_TT_3: 100
+  response: |-
+    775100D6218A22290C3
+    775211E01FFFFFF177F
