@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221002
+test_cases:
+- expected_values:
+    PORSCHE_AC_COMP_T: 83
+  response: 7E805621002033E
+- expected_values:
+    PORSCHE_AC_COMP_T: 86
+  response: 7E805621002035C
+- expected_values:
+    PORSCHE_AC_COMP_T: 92.8
+  response: 7E80562100203A0
+- expected_values:
+    PORSCHE_AC_COMP_T: 93.8
+  response: 7E80562100203AA
+- expected_values:
+    PORSCHE_AC_COMP_T: 100
+  response: 7E80562100203E8
+- expected_values:
+    PORSCHE_AC_COMP_T: 105
+  response: 7E805621002041A
+- expected_values:
+    PORSCHE_AC_COMP_T: 123.2
+  response: 7E80562100204D0
+- expected_values:
+    PORSCHE_AC_COMP_T: 150.4
+  response: 7E80562100205E0
