@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    PORSCHE_ODO_HD: 13120.692
+  response: 7E80762116000C834B4
+- expected_values:
+    PORSCHE_ODO_HD: 13124.095
+  response: 7E80762116000C841FF
+- expected_values:
+    PORSCHE_ODO_HD: 13128.449
+  response: 7E80762116000C85301
+- expected_values:
+    PORSCHE_ODO_HD: 13156.475
+  response: 7E80762116000C8C07B
