@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     PORSCHE_VSS: 1
   response: 7E80462F40D01
+- expected_values:
+    PORSCHE_VSS: 108
+  response: 7E80462F40D6C
+- expected_values:
+    PORSCHE_VSS: 112
+  response: 7E80462F40D70
+- expected_values:
+    PORSCHE_VSS: 115
+  response: 7E80462F40D73
+- expected_values:
+    PORSCHE_VSS: 122
+  response: 7E80462F40D7A

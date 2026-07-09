@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_FUEL_LEVEL_7E0_2206: 8
   response: '7E8056222060800'
+- expected_values:
+    PORSCHE_PQ35_FUEL_LEVEL_7E0_2206: 9
+  response: 7E80562220609A4
+- expected_values:
+    PORSCHE_PQ35_FUEL_LEVEL_7E0_2206: 10
+  response: 7E8056222060A8F
+- expected_values:
+    PORSCHE_PQ35_FUEL_LEVEL_7E0_2206: 11
+  response: 7E8056222060B81
+- expected_values:
+    PORSCHE_PQ35_FUEL_LEVEL_7E0_2206: 12
+  response: 7E8056222060CA6
