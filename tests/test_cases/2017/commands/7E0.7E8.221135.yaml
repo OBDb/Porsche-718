@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     PORSCHE_COOLANT_T: 986.1
   response: '7E8056211353130'
+- expected_values:
+    PORSCHE_COOLANT_T: 1158.4
+  response: 7E80562113537EB
+- expected_values:
+    PORSCHE_COOLANT_T: 1171.2
+  response: 7E805621135386B
+- expected_values:
+    PORSCHE_COOLANT_T: 1202.8
+  response: 7E80562113539A7
+- expected_values:
+    PORSCHE_COOLANT_T: 1228.6
+  response: 7E8056211353AA9
