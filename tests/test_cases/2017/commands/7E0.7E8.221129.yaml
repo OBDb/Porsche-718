@@ -1,5 +1,17 @@
 command_id: 7E0.7E8.221129
 test_cases:
 - expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 2062.5
+  response: 7E805621129101D
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 2086.5
+  response: 7E805621129104D
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 2094.5
+  response: 7E805621129105D
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 2118.5
+  response: 7E805621129108D
+- expected_values:
     PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 2902.5
   response: 7E80562112916AD

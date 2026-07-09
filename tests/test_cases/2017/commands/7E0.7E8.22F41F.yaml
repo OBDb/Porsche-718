@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     PORSCHE_RUNTM: 672
   response: 7E80562F41F02A0
+- expected_values:
+    PORSCHE_RUNTM: 1206
+  response: 7E80562F41F04B6
+- expected_values:
+    PORSCHE_RUNTM: 1446
+  response: 7E80562F41F05A6
+- expected_values:
+    PORSCHE_RUNTM: 1474
+  response: 7E80562F41F05C2
+- expected_values:
+    PORSCHE_RUNTM: 1518
+  response: 7E80562F41F05EE
+- expected_values:
+    PORSCHE_RUNTM: 1583
+  response: 7E80562F41F062F
