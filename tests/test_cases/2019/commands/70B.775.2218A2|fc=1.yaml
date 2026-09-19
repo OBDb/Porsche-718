@@ -101,7 +101,6 @@ test_cases:
     PORSCHE_TPOS_RR: FR
     PORSCHE_TPS_RR: 2.3
     PORSCHE_TPW_RR: 12.7
-    PORSCHE_TT_3: 100
     PORSCHE_TT_RR: 100
   response: |-
     775100D6218A22290C3
