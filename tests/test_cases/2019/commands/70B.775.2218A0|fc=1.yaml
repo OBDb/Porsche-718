@@ -77,7 +77,6 @@ test_cases:
     PORSCHE_TPOS_RL: FL
     PORSCHE_TPS_RL: 2.3
     PORSCHE_TPW_RL: 12.7
-    PORSCHE_TT_1: 100
     PORSCHE_TT_RL: 100
   response: |-
     775100D6218A0229893
