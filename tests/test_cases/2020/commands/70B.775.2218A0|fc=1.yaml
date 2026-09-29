@@ -7,7 +7,9 @@ test_cases:
     PORSCHE_TPW_RL: 8.2
     PORSCHE_TP_1: 1.9
     PORSCHE_TP_RL: 1.9
+    PORSCHE_TP_SET_FR: 1.525
     PORSCHE_TT_1: 21
+    PORSCHE_TT_FR: -21
     PORSCHE_TT_RL: 21
   response: |-
     775100D6218A026AE12
@@ -19,7 +21,9 @@ test_cases:
     PORSCHE_TPW_RL: 8.2
     PORSCHE_TP_1: 2
     PORSCHE_TP_RL: 2
+    PORSCHE_TP_SET_FR: 1.575
     PORSCHE_TT_1: 23
+    PORSCHE_TT_FR: -20
     PORSCHE_TT_RL: 23
   response: |-
     775100D6218A026AE12
@@ -31,7 +35,9 @@ test_cases:
     PORSCHE_TPW_RL: 8.2
     PORSCHE_TP_1: 2
     PORSCHE_TP_RL: 2
+    PORSCHE_TP_SET_FR: 1.6
     PORSCHE_TT_1: 24
+    PORSCHE_TT_FR: -20
     PORSCHE_TT_RL: 24
   response: |-
     775100D6218A026AE12
@@ -41,6 +47,7 @@ test_cases:
     PORSCHE_TPOS_RL: FL
     PORSCHE_TPS_RL: 2
     PORSCHE_TPW_RL: 12.7
+    PORSCHE_TP_SET_FR: 6.375
     PORSCHE_TT_RL: 100
   response: |-
     775100D6218A026AE12

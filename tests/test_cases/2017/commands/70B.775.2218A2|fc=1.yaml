@@ -7,7 +7,9 @@ test_cases:
     PORSCHE_TPW_RR: 7.9
     PORSCHE_TP_3: 2.4
     PORSCHE_TP_RR: 2.4
+    PORSCHE_TP_SET_RL: 1.95
     PORSCHE_TT_3: 38
+    PORSCHE_TT_RL_V2: -16
     PORSCHE_TT_RR: 38
   response: |-
     775100D6218A2257212
@@ -19,7 +21,9 @@ test_cases:
     PORSCHE_TPW_RR: 7.9
     PORSCHE_TP_3: 2.4
     PORSCHE_TP_RR: 2.4
+    PORSCHE_TP_SET_RL: 1.975
     PORSCHE_TT_3: 39
+    PORSCHE_TT_RL_V2: -16
     PORSCHE_TT_RR: 39
   response: |-
     775100D6218A2257212
@@ -31,7 +35,9 @@ test_cases:
     PORSCHE_TPW_RR: 7.9
     PORSCHE_TP_3: 2.5
     PORSCHE_TP_RR: 2.5
+    PORSCHE_TP_SET_RL: 1.95
     PORSCHE_TT_3: 38
+    PORSCHE_TT_RL_V2: -15
     PORSCHE_TT_RR: 38
   response: |-
     775100D6218A2257212
