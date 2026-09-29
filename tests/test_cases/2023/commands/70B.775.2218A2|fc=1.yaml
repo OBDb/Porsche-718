@@ -7,7 +7,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.5
     PORSCHE_TP_RR: 2.5
+    PORSCHE_TP_SET_RL: 1.85
     PORSCHE_TT_3: 34
+    PORSCHE_TT_RL_V2: -15
     PORSCHE_TT_RR: 34
   response: |-
     775100D6218A2230056
@@ -19,7 +21,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.875
     PORSCHE_TT_3: 35
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 35
   response: |-
     775100D6218A2230056
@@ -31,7 +35,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.9
     PORSCHE_TT_3: 36
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 36
   response: |-
     775100D6218A2230056
@@ -43,7 +49,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.925
     PORSCHE_TT_3: 37
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 37
   response: |-
     775100D6218A2230056
@@ -55,7 +63,9 @@ test_cases:
     PORSCHE_TPW_RR: 12.7
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.925
     PORSCHE_TT_3: 37
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 37
   response: |-
     775100D6218A2230056
@@ -67,7 +77,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.95
     PORSCHE_TT_3: 38
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 38
   response: |-
     775100D6218A2230056
@@ -79,7 +91,9 @@ test_cases:
     PORSCHE_TPW_RR: 12.7
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.95
     PORSCHE_TT_3: 38
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 38
   response: |-
     775100D6218A2230056
@@ -91,7 +105,9 @@ test_cases:
     PORSCHE_TPW_RR: 10.4
     PORSCHE_TP_3: 2.6
     PORSCHE_TP_RR: 2.6
+    PORSCHE_TP_SET_RL: 1.975
     PORSCHE_TT_3: 39
+    PORSCHE_TT_RL_V2: -14
     PORSCHE_TT_RR: 39
   response: |-
     775100D6218A2230056
@@ -101,6 +117,7 @@ test_cases:
     PORSCHE_TPOS_RR: FL
     PORSCHE_TPS_RR: 2.1
     PORSCHE_TPW_RR: 12.7
+    PORSCHE_TP_SET_RL: 6.375
     PORSCHE_TT_RR: 100
   response: |-
     775100D6218A2230056
