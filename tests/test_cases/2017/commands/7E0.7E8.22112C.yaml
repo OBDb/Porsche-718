@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22112C
+test_cases:
+- expected_values:
+    PORSCHE_SPARK_EFFICIENCY_DEV: 55.451
+  response: 7E80462112C47
+- expected_values:
+    PORSCHE_SPARK_EFFICIENCY_DEV: 56.232
+  response: 7E80462112C48
+- expected_values:
+    PORSCHE_SPARK_EFFICIENCY_DEV: 57.013
+  response: 7E80462112C49
+- expected_values:
+    PORSCHE_SPARK_EFFICIENCY_DEV: 66.385
+  response: 7E80462112C55

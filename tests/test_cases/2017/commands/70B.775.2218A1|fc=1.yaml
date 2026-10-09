@@ -3,12 +3,12 @@ test_cases:
 - expected_values:
     PORSCHE_TID_FR: 100
     PORSCHE_TPOS_FR: FR
+    PORSCHE_TPS_2: 2.3
     PORSCHE_TPS_FR: 2.3
     PORSCHE_TPW_FR: 7.7
     PORSCHE_TP_2: 2.3
     PORSCHE_TP_FR_V2: 2.3
     PORSCHE_TP_SET_FL: 2.05
-    PORSCHE_TT_2: 42
     PORSCHE_TT_FL: -17
     PORSCHE_TT_FR_V2: 42
   response: |-
@@ -17,12 +17,12 @@ test_cases:
 - expected_values:
     PORSCHE_TID_FR: 100
     PORSCHE_TPOS_FR: FR
+    PORSCHE_TPS_2: 2.3
     PORSCHE_TPS_FR: 2.3
     PORSCHE_TPW_FR: 7.7
     PORSCHE_TP_2: 2.3
     PORSCHE_TP_FR_V2: 2.3
     PORSCHE_TP_SET_FL: 2.075
-    PORSCHE_TT_2: 43
     PORSCHE_TT_FL: -17
     PORSCHE_TT_FR_V2: 43
   response: |-
@@ -31,12 +31,12 @@ test_cases:
 - expected_values:
     PORSCHE_TID_FR: 100
     PORSCHE_TPOS_FR: FR
+    PORSCHE_TPS_2: 2.3
     PORSCHE_TPS_FR: 2.3
     PORSCHE_TPW_FR: 7.7
     PORSCHE_TP_2: 2.3
     PORSCHE_TP_FR_V2: 2.3
     PORSCHE_TP_SET_FL: 2.1
-    PORSCHE_TT_2: 44
     PORSCHE_TT_FL: -17
     PORSCHE_TT_FR_V2: 44
   response: |-
@@ -45,12 +45,12 @@ test_cases:
 - expected_values:
     PORSCHE_TID_FR: 100
     PORSCHE_TPOS_FR: FR
+    PORSCHE_TPS_2: 2.3
     PORSCHE_TPS_FR: 2.3
     PORSCHE_TPW_FR: 7.7
     PORSCHE_TP_2: 2.4
     PORSCHE_TP_FR_V2: 2.4
     PORSCHE_TP_SET_FL: 1.975
-    PORSCHE_TT_2: 39
     PORSCHE_TT_FL: -16
     PORSCHE_TT_FR_V2: 39
   response: |-

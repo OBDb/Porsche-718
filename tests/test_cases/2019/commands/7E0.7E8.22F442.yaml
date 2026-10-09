@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    PORSCHE_KL30_V: 13.906
+    PORSCHE_TRON_VPWR: 13.906
     PORSCHE_VPWR: 13.906
   response: 7E80562F4423652
 - expected_values:
-    PORSCHE_KL30_V: 14.335
+    PORSCHE_TRON_VPWR: 14.335
     PORSCHE_VPWR: 14.335
   response: 7E80562F44237FF
 - expected_values:
-    PORSCHE_KL30_V: 14.609
+    PORSCHE_TRON_VPWR: 14.609
     PORSCHE_VPWR: 14.609
   response: 7E80562F4423911
