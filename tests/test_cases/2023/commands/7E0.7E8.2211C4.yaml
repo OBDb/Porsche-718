@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211C4
+test_cases:
+- expected_values:
+    P718_OIL_MAX: 15
+  response: 7E8046211C40F

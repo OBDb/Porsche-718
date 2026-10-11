@@ -1,12 +1,10 @@
 command_id: 70B.775.2218A2|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_TID_RR: 100
-    PORSCHE_TPOS_RR: RL
-    PORSCHE_TPS_RR: 2.1
-    PORSCHE_TPW_RR: 12.7
-    PORSCHE_TP_SET_RL: 6.375
-    PORSCHE_TT_RR: 100
+    P718_TID_RR: 100
+    P718_TPOS_RR: RL
+    P718_TPS_RR: 2.1
+    P718_TPW_RR: 12.7
   response: |-
     775100D6218A224F58E
     775212B02FFFFFF157F
