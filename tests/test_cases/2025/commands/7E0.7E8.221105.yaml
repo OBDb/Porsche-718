@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221105
+test_cases:
+- expected_values:
+    P718_INJ_QTY_DEV_CYL_6: 226.56
+  response: '7E8056211055880'
